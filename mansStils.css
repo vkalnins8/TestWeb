@@ -1,0 +1,19 @@
+body {
+  background-color: lightskyblue;
+}
+h1 {
+  color: blue;
+  font-size: 400%;
+}
+p {
+  color: orangered;
+  font-size: 200%;
+}
+ul {
+    color: red;
+    font-size: 220%;
+}
+table {
+    color: purple;
+    font-size: 200%;      
+}
